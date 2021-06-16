@@ -167,6 +167,7 @@ C:\Users\jesse\Desktop\nieuwe rep\top2000\project-2000\top2000\top2000\top2000ui
 C:\Users\jesse\Desktop\nieuwe rep\top2000\project-2000\top2000\top2000\top2000ui\obj\Debug\net5.0\Razor\Views\Lijsts\Details.cshtml.g.cs
 C:\Users\jesse\Desktop\nieuwe rep\top2000\project-2000\top2000\top2000\top2000ui\obj\Debug\net5.0\Razor\Views\Lijsts\Edit.cshtml.g.cs
 C:\Users\jesse\Desktop\nieuwe rep\top2000\project-2000\top2000\top2000\top2000ui\obj\Debug\net5.0\Razor\Views\Lijsts\Index.cshtml.g.cs
+<<<<<<< HEAD
 D:\git-project-top-2000\top2000\top2000\top2000ui\bin\Debug\net5.0\appsettings.Development.json
 D:\git-project-top-2000\top2000\top2000\top2000ui\bin\Debug\net5.0\appsettings.json
 D:\git-project-top-2000\top2000\top2000\top2000ui\bin\Debug\net5.0\top2000ui.StaticWebAssets.xml
@@ -336,3 +337,11 @@ D:\git-project-top-2000\top2000\top2000\top2000ui\obj\Debug\net5.0\top2000ui.dll
 D:\git-project-top-2000\top2000\top2000\top2000ui\obj\Debug\net5.0\ref\top2000ui.dll
 D:\git-project-top-2000\top2000\top2000\top2000ui\obj\Debug\net5.0\top2000ui.pdb
 D:\git-project-top-2000\top2000\top2000\top2000ui\obj\Debug\net5.0\top2000ui.genruntimeconfig.cache
+=======
+C:\Users\jesse\Desktop\nieuwe rep\top2000\project-2000\top2000\top2000\top2000ui\obj\Debug\net5.0\Razor\Views\Users\Create.cshtml.g.cs
+C:\Users\jesse\Desktop\nieuwe rep\top2000\project-2000\top2000\top2000\top2000ui\obj\Debug\net5.0\Razor\Views\Users\Delete.cshtml.g.cs
+C:\Users\jesse\Desktop\nieuwe rep\top2000\project-2000\top2000\top2000\top2000ui\obj\Debug\net5.0\Razor\Views\Users\Details.cshtml.g.cs
+C:\Users\jesse\Desktop\nieuwe rep\top2000\project-2000\top2000\top2000\top2000ui\obj\Debug\net5.0\Razor\Views\Users\Edit.cshtml.g.cs
+C:\Users\jesse\Desktop\nieuwe rep\top2000\project-2000\top2000\top2000\top2000ui\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\jesse\Desktop\nieuwe rep\top2000\project-2000\top2000\top2000\top2000ui\bin\Debug\net5.0\bundleconfig.json
+>>>>>>> 22643aeae34ed54ed6b9dfc014dfd3464e523145

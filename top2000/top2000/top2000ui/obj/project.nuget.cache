@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "LDLmZJ6+lj0FSn8ALOKcbiE3W1sNjqepq+ufQzvFVsPUsbQrT6whI1meiKIY/zuGD/8HLp0q4+8DBqrjKKeuqw==",
+=======
+  "dgSpecHash": "seGHriQzVxJL1iNlpT0xUk/PYPCTTUTdTJ4sAoUP1yYTx6I6+IUx0yW0HUhMGVaCvqzSpNQ58OdOw2KKLaw5PQ==",
+>>>>>>> 22643aeae34ed54ed6b9dfc014dfd3464e523145
   "success": true,
   "projectFilePath": "D:\\git-project-top-2000\\top2000\\top2000\\top2000ui\\top2000ui.csproj",
   "expectedPackageFiles": [
