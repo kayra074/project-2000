@@ -345,3 +345,9 @@ C:\Users\jesse\Desktop\nieuwe rep\top2000\project-2000\top2000\top2000\top2000ui
 C:\Users\jesse\Desktop\nieuwe rep\top2000\project-2000\top2000\top2000\top2000ui\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
 C:\Users\jesse\Desktop\nieuwe rep\top2000\project-2000\top2000\top2000\top2000ui\bin\Debug\net5.0\bundleconfig.json
 >>>>>>> 22643aeae34ed54ed6b9dfc014dfd3464e523145
+D:\git-project-top-2000\top2000\top2000\top2000ui\bin\Debug\net5.0\bundleconfig.json
+D:\git-project-top-2000\top2000\top2000\top2000ui\obj\Debug\net5.0\Razor\Views\Users\Create.cshtml.g.cs
+D:\git-project-top-2000\top2000\top2000\top2000ui\obj\Debug\net5.0\Razor\Views\Users\Delete.cshtml.g.cs
+D:\git-project-top-2000\top2000\top2000\top2000ui\obj\Debug\net5.0\Razor\Views\Users\Details.cshtml.g.cs
+D:\git-project-top-2000\top2000\top2000\top2000ui\obj\Debug\net5.0\Razor\Views\Users\Edit.cshtml.g.cs
+D:\git-project-top-2000\top2000\top2000\top2000ui\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
